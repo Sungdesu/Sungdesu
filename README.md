@@ -1,5 +1,5 @@
 
-# Hi there, I'm Juan Dela Cruz! 👋
+# Hi there, I'm Sanny Cyruz Regalado
 
 ### 💻 Aspiring IT Professional | Programmer | Database Enthusiast
 
