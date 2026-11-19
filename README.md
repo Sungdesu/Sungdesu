@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-I am **Juan Dela Cruz**, with a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in technology began when I pursued a **Bachelor of Science in Information Technology (BSIT)**.
+I am **Sanny Cyruz Regalado**, with a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in technology began when I pursued a **Bachelor of Science in Information Technology (BSIT)**.
 
 I am passionate about continuously learning new technologies, improving my programming skills, and exploring innovative solutions to real-world challenges.
 
@@ -17,9 +17,9 @@ I am passionate about continuously learning new technologies, improving my progr
 
 ## 📜 Certifications
 
-- [NoSQL and DBaaS 101](https://www.oracle.com/database/nosql/)
-- [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://education.oracle.com/)
-- [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://education.oracle.com/)
+- [NoSQL and DBaaS 101]()
+- [Oracle Cloud Data Management 2023 Certified Foundations Associate]()
+- [Oracle Cloud Infrastructure 2023 Certified Foundations Associate]()
 
 ## 🛠️ Technical Skills
 
@@ -38,8 +38,8 @@ I am passionate about continuously learning new technologies, improving my progr
 
 ## 📫 Connect With Me
 
-- **LinkedIn:** [Visit My LinkedIn Profile](https://www.linkedin.com/)
-- **Email:** [juandelacruz@gmail.com](mailto:juandelacruz@gmail.com)
+- **LinkedIn:** [Visit My LinkedIn Profile](https://ph.linkedin.com/in/sanny-cyruz-regalado-ba4599349)
+- **Email:** [sannycyruzregalado@gmail.com]()
 
 ---
 
