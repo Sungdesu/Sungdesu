@@ -17,7 +17,7 @@ I am passionate about continuously learning new technologies, improving my progr
 
 ## 📜 Certifications
 
-- [NoSQL and DBaaS 101]()
+- [NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/77d9442b93814c999c4e833a456c8362)
 - [Oracle Cloud Data Management 2023 Certified Foundations Associate]()
 - [Oracle Cloud Infrastructure 2023 Certified Foundations Associate]()
 
