@@ -38,7 +38,7 @@ I am passionate about continuously learning new technologies, improving my progr
 
 ## 📫 Connect With Me
 
-- **LinkedIn:** [Visit My LinkedIn Profile](https://ph.linkedin.com/in/sanny-cyruz-regalado-ba4599349)
+- **LinkedIn:** [Visit My LinkedIn Profile](www.linkedin.com/in/sanny-cyruz-regalado-55aa793a0)
 - **Email:** [sannycyruzregalado@gmail.com]()
 
 ---
